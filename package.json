@@ -21,7 +21,7 @@
   "main": "dist/react-iscroll.js",
   "jsnext:main": "src/react-iscroll.jsx",
   "dependencies": {
-    "deep-equal": "1.0.1"
+    "react-fast-compare": "^2.0.4"
   },
   "devDependencies": {
     "babel-cli": "6.8.0",
